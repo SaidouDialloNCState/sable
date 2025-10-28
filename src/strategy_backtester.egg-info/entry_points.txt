@@ -1,0 +1,2 @@
+[console_scripts]
+sbe = strategy_backtester.cli:main
