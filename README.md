@@ -12,8 +12,8 @@ I made a research-grade backtesting platform for equities/ETFs that’s leakage-
 ## VALUE PROPOSITION
 SABLE lets you test ideas as they would trade in reality, with leakage-aware validation and explicit execution/cost modeling. It turns research claims into reproducible, defensible evidence (reports, metrics, and CI).
 ## ARCHITECTURE DIAGRAM
-![Sable Architecture](diagrams/sable_abm_top.png)
-![Sable Architecture](diagrams/sable_abm_bottom.png)
+![SABLE Architecture](https://raw.githubusercontent.com/SaidouDialloNCState/sable/main/diagrams/sable_abm_top.png)
+![SABLE Architecture](https://raw.githubusercontent.com/SaidouDialloNCState/sable/main/diagrams/sable_abm_bottom.png)
 ## QUICKSTART (GIT BASH)
 ### STEP 1 — Set up
 python -m venv .venv
